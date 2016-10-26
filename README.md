@@ -5,11 +5,11 @@ appearance of a web page, querying a search engine with search terms provided by
 <br></br>
 So here are few of my fun and useful bookmarklets :
 
-* [Font_Changer](https://github.com/Akash1684/Bookmarklet_Collection/blob/master/Font_Changer.htm) : Picks up random font style and change the font of current webpage.
+* [Font_Changer](https://github.com/Akash1684/Bookmarklet_Collection/blob/master/Font_Changer.htm) : Picks up random font style from the collection and change the font of current webpage.
 <br></br>
-* [Select_Search](https://github.com/Akash1684/Bookmarklet_Collection/blob/master/Select_Search.htm) : Provide single click search of the selected text.
+* [Select_Search](https://github.com/Akash1684/Bookmarklet_Collection/blob/master/Select_Search.htm) : Provide single click google search of the selected text.
 <br></br>
-* [Notes](https://github.com/Akash1684/Bookmarklet_Collection/blob/master/Notes.htm) : Save selected text as notes and can be accessed later.
+* [Notes](https://github.com/Akash1684/Bookmarklet_Collection/blob/master/Notes.htm) : Save selected text as notes that can be accessed later.
 
 
 **NOTE:** This repository is under active developement.
