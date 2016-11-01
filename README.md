@@ -9,7 +9,7 @@ So here are few of my fun and useful bookmarklets :
 <br></br>
 * [Select_Search](https://github.com/Akash1684/Bookmarklet_Collection/blob/master/Select_Search.htm) : Provide single click google search of the selected text.
 <br></br>
-* [Notes](https://github.com/Akash1684/Bookmarklet_Collection/blob/master/Notes.htm) : Save selected text as notes that can be accessed later.
+* [Notes](https://github.com/Akash1684/Bookmarklet_Collection/blob/master/Notes.htm) : Save selected text as notes in form of a Cookie, which can be accessed later.
 
 
 **NOTE:** This repository is under active developement.
