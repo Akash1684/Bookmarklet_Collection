@@ -1,0 +1,20 @@
+<a href="javascript:(function(){
+
+var text='';
+text=window.getSelection();
+text = text.toString();
+text = text + 'to english';
+var res = text.split(' ');
+var final='';
+for(var i in res)
+{
+  final=final+res[i]+'%20';
+}
+
+console.log(final);
+
+
+final='https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q='+final;
+
+console.log(text);
+window.open(final);})()">Convert_text</a>
